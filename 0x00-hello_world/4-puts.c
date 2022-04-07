@@ -1,10 +1,8 @@
 #include <stdio.h>
 
 /**
- * Main - prints the "Programmiing is like buiding a multilingual puzzle
- * 
- * Return: 0 if exited properly, no-zero otherwise
- *
+ * Main - main blocks
+ * Return: 0 
  */
 int main(void)
 {
